@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Users\\Romain\\Cmder\\vendor\\git-for-windows\\bin\\bash.exe",
+    "typescript.tsdk": "C:\\Users\\Romain\\Documents\\GitHub\\cuistot\\frontend\\node_modules\\typescript\\lib",
+    "git.path": "C:\\Users\\Romain\\Cmder\\vendor\\git-for-windows\\cmd\\git",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+}
