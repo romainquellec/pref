@@ -4,4 +4,5 @@
     "git.path": "C:\\Users\\Romain\\Cmder\\vendor\\git-for-windows\\cmd\\git",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
+    "tslint.autoFixOnSave": false
 }
