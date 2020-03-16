@@ -1,8 +1,17 @@
 {
     "terminal.integrated.shell.windows": "C:\\Users\\Romain\\Cmder\\vendor\\git-for-windows\\bin\\bash.exe",
-    "typescript.tsdk": "C:\\Users\\Romain\\Documents\\GitHub\\cuistot\\frontend\\node_modules\\typescript\\lib",
     "git.path": "C:\\Users\\Romain\\Cmder\\vendor\\git-for-windows\\cmd\\git",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "tslint.autoFixOnSave": false
+    "typescript.tsdk": "C:\\Users\\Romain\\Documents\\GitHub\\cuistot\\frontend\\node_modules\\typescript\\lib",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.tabSize": 2,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.run": "onSave"
 }
